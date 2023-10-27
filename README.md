@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ## Sponsor
 if you think my job is good, you can sponsor me by alipay.
 
-![1698396800597](https://github.com/acekingke/acekingke/assets/7586502/8665be14-59c1-471d-992d-8b6e2bf53c15|width=50)
-
+<img src="https://github.com/acekingke/acekingke/assets/7586502/8665be14-59c1-471d-992d-8b6e2bf53c15" width="250">
 
