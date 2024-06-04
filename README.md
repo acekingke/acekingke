@@ -14,8 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: aceking.ke@gmail.com
 
 
-## Sponsor
-if you think my job is good, you can sponsor me by alipay.
-
-<img src="https://github.com/acekingke/acekingke/assets/7586502/8665be14-59c1-471d-992d-8b6e2bf53c15" width="250">
-
